@@ -8,9 +8,9 @@
         <Style x:Key="plainButton"
                TargetType="Button">
             <Setter Property="BackgroundColor"
-                    Value="#eee" />
+                    Value="AliceBlue" />
             <Setter Property="TextColor"
-                    Value="Black" />
+                    Value="gray" />
             <Setter Property="CornerRadius"
                     Value="0" />
             <Setter Property="FontSize"
@@ -21,7 +21,7 @@
             <Setter Property="BackgroundColor"
                     Value="#ddd" />
             <Setter Property="TextColor"
-                    Value="Black" />
+                    Value="Gray" />
             <Setter Property="CornerRadius"
                     Value="0" />
             <Setter Property="FontSize"
@@ -30,7 +30,7 @@
         <Style x:Key="orangeButton"
                TargetType="Button">
             <Setter Property="BackgroundColor"
-                    Value="#E8AD00" />
+                    Value="Gray" />
             <Setter Property="TextColor"
                     Value="White" />
             <Setter Property="CornerRadius"
